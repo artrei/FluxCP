@@ -865,7 +865,7 @@ return array(
 	'ContactUsLabel'     => 'Contact Us',
 	'PurchaseLabel'     => 'Purchase',
 	'DonateLabel'     => 'Donate',
-	'MapStaticsLabel'     => 'Map Statics',
+	'MapStaticsLabel'     => 'Map Stats',
 	'ItemDatabaseLabel'     => 'Item Database',
 	'MobDatabaseLabel'     => 'Mob Database',
 	'RateUsOnRMSLabel'     => 'Rate us on RMS!',
